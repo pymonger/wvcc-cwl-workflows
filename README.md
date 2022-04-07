@@ -80,7 +80,7 @@ DESCRIPTION
 
 ## License
 
-See our: [LICENSE](https://github.com/pymonger/wvcc-cwl-workflows/blob/develop/LICENSE)
+See our: [LICENSE](https://github.com/pymonger/wvcc-cwl-workflows/blob/main/LICENSE)
 
 ## Support
 
